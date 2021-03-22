@@ -16,4 +16,4 @@ Ainda iniciando os estudos, aceitei esse desafio e tentei chegar o mais próximo
 - Funcionaria melhor em formato de tabela?
 - Como ajustar, corretamente, o texto dentro da imagem?
 
-*Ps. Aceito dicas, sugestões e críticas.*
+<center>*Ps. Aceito dicas, sugestões e críticas.*
