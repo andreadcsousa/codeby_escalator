@@ -4,7 +4,7 @@
 
 - Dificuldade em criar as divisórias
 - Dificuldade em organizar os espaços
-- Dificuldade em criar blocos de texto
+- Dificuldade em organizar os blocos
 
 ### Dúvidas:
 - Precisa mesmo de tantas divs pra fazer funcionar?
