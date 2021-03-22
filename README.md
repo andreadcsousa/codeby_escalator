@@ -1,6 +1,7 @@
 # Codando um layout em Flexbox
 
 __Tentativa 1:__
+
 - Dificuldade em criar as divisórias
 - Dificuldade em organizar os espaços
 - Dificuldade em criar blocos de texto
