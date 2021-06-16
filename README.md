@@ -17,3 +17,5 @@ Ainda iniciando os estudos, aceitei esse desafio e tentei chegar o mais próximo
 - Como ajustar, corretamente, o texto dentro da imagem?
 
 *Ps. Aceito dicas, sugestões e críticas.*
+
+<img src="./escalator.jpg" alt="" width="100%">
